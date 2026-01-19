@@ -48,7 +48,7 @@ export const networksConfig = {
     tokens: {
       stablecoin: {
         symbol: 'ECSD',
-        address: '0xffD4505B3452Dc22f8473616d50503bA9E1710Ac',  //  Mordor Stablecoin
+        address: '0x5A7Ca94F6E969C94bef4CE5e2f90ed9d4891918A',
         decimals: 18,
         isDirectTransfer: true
       },
